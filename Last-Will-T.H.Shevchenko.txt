@@ -1,4 +1,6 @@
-    Заповіт
+  Ukrainian Text:
+
+Заповіт Т.Г.Шевченко
 
 Як умру, то поховайте
 Мене на могилі,
@@ -27,7 +29,10 @@
 Не забудьте пом'янути
 Незлим тихим словом.
 
-    ENGLISH
+    ENGLISH TEXT:
+
+Last Will T.H.Shevchenko
+
 When I am dead, bury me
 In my beloved Ukraine,
 My tomb upon a grave mound high
